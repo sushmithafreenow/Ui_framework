@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AutomationFramework" parallel="false" preserve-order="true">
+    <test name="Registration">      
+        <classes>
+            <class name="com.Mytheresa.Login" />
+                      
+        </classes>      
+    </test>             
+</suite>

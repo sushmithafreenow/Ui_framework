@@ -1,0 +1,20 @@
+2020-01-13 01:24:58 INFO  MytheresaLogger:29 - Entered serach text
+2020-01-13 01:25:03 INFO  MytheresaLogger:31 - clicked on search button
+2020-01-13 01:25:03 INFO  MytheresaLogger:33 - search tool bar for serach itemGucci bags is present
+2020-01-13 01:25:03 INFO  MytheresaLogger:36 - number of searched item 60
+2020-01-13 01:25:04 INFO  MytheresaLogger:40 - Verifies all 60 elements
+2020-01-13 20:56:48 INFO  MytheresaLogger:30 - Entered serach text
+2020-01-13 20:56:52 INFO  MytheresaLogger:32 - clicked on search button
+2020-01-13 20:56:53 INFO  MytheresaLogger:34 - search tool bar for serach itemGucci bags is present
+2020-01-13 20:56:53 INFO  MytheresaLogger:37 - number of searched item 60
+2020-01-13 20:56:55 INFO  MytheresaLogger:41 - Verifies all 60 elements
+2020-01-13 20:58:17 INFO  MytheresaLogger:30 - Entered serach text
+2020-01-13 20:58:21 INFO  MytheresaLogger:32 - clicked on search button
+2020-01-13 20:58:22 INFO  MytheresaLogger:34 - search tool bar for serach itemGucci bags is present
+2020-01-13 20:58:22 INFO  MytheresaLogger:37 - number of searched item 60
+2020-01-13 20:58:24 INFO  MytheresaLogger:41 - Verifies all 60 elements
+2020-01-13 21:06:44 INFO  MytheresaLogger:38 - Entered serach text
+2020-01-13 21:06:47 INFO  MytheresaLogger:40 - clicked on search button
+2020-01-13 21:06:47 INFO  MytheresaLogger:42 - search tool bar for serach itemGucci bags is present
+2020-01-13 21:06:47 INFO  MytheresaLogger:45 - number of searched item 60
+2020-01-13 21:06:50 INFO  MytheresaLogger:49 - Verifies all 60 elements
